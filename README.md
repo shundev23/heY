@@ -1,2 +1,2 @@
 # heY
-a simple chat
+a simple chatbot
